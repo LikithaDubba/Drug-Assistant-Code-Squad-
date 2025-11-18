@@ -1,0 +1,7 @@
+id,name,class,dose_mg,renally_adjust,notes
+1,Aspirin,NSAID,81,yes,Common antiplatelet
+2,Ibuprofen,NSAID,400,yes,Analgesic
+3,Warfarin,Anticoagulant,5,yes,Requires INR monitoring
+4,Paracetamol,Analgesic,500,no,Safe in pregnancy (dose limits)
+5,Amoxicillin,Antibiotic,500,no,Adjust in hepatic failure
+6,Metformin,Antidiabetic,500,yes,Contraindicated in severe renal impairment
