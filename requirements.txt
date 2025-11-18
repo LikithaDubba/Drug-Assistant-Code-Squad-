@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+transformers>=4.30
+torch  # advise user to choose proper torch build
+python-multipart
